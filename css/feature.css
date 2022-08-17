@@ -1,0 +1,25 @@
+#features {
+    padding: 7% 15%;
+    position: relative;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+ }
+
+.feature-box {
+    padding: 5%;
+}
+
+.feature-itens {
+    color: #ef8172;
+    margin: 1rem 0;
+}
+
+.feature-itens:hover {
+    color: #ff4c68;
+}
+
+.feature-box > p {
+    color: #8f8f8f;
+}

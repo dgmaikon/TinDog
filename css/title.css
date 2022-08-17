@@ -1,0 +1,11 @@
+#title .container-fluid {
+    padding: 3% 15% 7%;
+    text-align: left;
+}
+
+.title-image {
+    width: 15%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 21%;
+}

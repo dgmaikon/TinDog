@@ -1,0 +1,26 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+#cta {
+    padding: 7% 25%;
+}
+
+/* Section */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: #FFF;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+
